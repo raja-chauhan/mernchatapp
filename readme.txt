@@ -7,3 +7,8 @@ cluster0
 
 image upload --. https://cloudinary.com/
 same email id for sign up
+
+.env file -------------------------
+PORT = 5000
+MONGO_URI = "mongodb+srv://maernchatapp:mernchatapp@cluster0.ih9vi.mongodb.net/mernchatapp?retryWrites=true&w=majority"
+JWT_SECRET = JWT_SECRET
